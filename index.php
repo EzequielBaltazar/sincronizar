@@ -6,7 +6,7 @@
         
         mati
         
-          uwu uwu uwu
+          uwu 
     </ol>
 </nav
 
