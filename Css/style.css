@@ -100,3 +100,11 @@ header{
     .navbar .menu .menu-on{
         transform: translateX(-4%);
     }
+    .navbar .menu ul li{
+        margin: 30px;
+        text-transform: uppercase;
+
+    }
+} 
+
+  
