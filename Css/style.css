@@ -50,3 +50,9 @@ header{
     margin: -50px 20px;
     
 }
+
+.menu ul li{
+    list-style: none;
+    margin-right: 70px;
+
+}
