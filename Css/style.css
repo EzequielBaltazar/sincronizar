@@ -77,9 +77,3 @@ header{
     cursor: pointer;
     color:yellowgreen;
 }
-
-@media (max-width: 570px){
-    .navbar .toggle-menu i{
-        display: block;
-       
-    }
