@@ -97,3 +97,6 @@ header{
         transform: translateX(-120%);
         transition: 1s ease-in;
     }
+    .navbar .menu .menu-on{
+        transform: translateX(-4%);
+    }
