@@ -63,3 +63,10 @@ header{
     font-size: 1.3em;
 
 }
+
+.navbar .toggle-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px ;
+    display: flex;
+}
