@@ -38,3 +38,8 @@ header{
     font-size: 1.6em;
 
 }
+
+.navbar .brand h3{
+    font-size: 1.3em;
+    margin: 5px 5px;
+}
