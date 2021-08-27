@@ -57,14 +57,7 @@ header{
 
 }
 
-<<<<<<< HEAD
 
-body{
-    font-family: 'Montserrat', sans-serif;
-    background-color:rgb(20, 20, 20);
-
-}
-=======
 .menu ul li a{
     color: yellowgreen;
     text-decoration: none;
@@ -84,4 +77,9 @@ body{
     cursor: pointer;
     color:yellowgreen;
 }
->>>>>>> bf1eabb8725ccbe11022f34505b3f6b2d21d1dcd
+
+@media (max-width: 570px){
+    .navbar .toggle-menu i{
+        display: block;
+       
+    }
