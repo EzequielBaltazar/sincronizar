@@ -43,3 +43,10 @@ header{
     font-size: 1.3em;
     margin: 5px 5px;
 }
+
+.menu ul{
+    display: flex;
+    justify-content: flex-end;
+    margin: -50px 20px;
+    
+}
