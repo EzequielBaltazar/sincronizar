@@ -56,3 +56,10 @@ header{
     margin-right: 70px;
 
 }
+
+.menu ul li a{
+    color: yellowgreen;
+    text-decoration: none;
+    font-size: 1.3em;
+
+}
