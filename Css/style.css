@@ -70,3 +70,9 @@ header{
     margin-top: 25px ;
     display: flex;
 }
+
+.navbar .toggle-menu i{
+    font-size: 1.8em;
+    cursor: pointer;
+    color:yellowgreen;
+}
