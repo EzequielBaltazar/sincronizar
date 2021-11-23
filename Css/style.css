@@ -1,30 +1,25 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
+
 }
+
 
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color:black;
-
+    background-color: black;
 }
 
 header{
     width: 100%;
 }
 
-.header .main {
-    width: 90%;
-    margin: 0 auto;
-}
-
-.navbar{
-    margin-top: 30px;
-}
+HOLAAAAA
+holaaaaa
 
 .navbar .brand {
     display: flex;
@@ -43,7 +38,6 @@ header{
     font-size: 1.3em;
     margin: 5px 5px;
 }
-
 .menu ul{
     display: flex;
     justify-content: flex-end;
@@ -90,7 +84,8 @@ header{
         width: 100%;
         height: 100%;
         z-index: 1;
-        background-color: blue;
+        
+        background-color: white;
         position: fixed;
         margin-top: 30px;
         transform: translateX(-120%);
@@ -108,12 +103,6 @@ header{
 
 form{
     color: white;
-    text transform: uppercase;
-    margin: center;
-
 }
 
-a{
-    color: aliceblue;
-}
-    
+
