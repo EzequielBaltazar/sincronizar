@@ -90,3 +90,8 @@ form{
     transition: 0.3s;
 }
 
+.boton{
+    width: 80px;
+    transition: ease 1s;
+}
+
