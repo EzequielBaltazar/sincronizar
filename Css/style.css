@@ -8,18 +8,20 @@
 
 }
 
-
 body{
     font-family: 'Montserrat', sans-serif;
     background-color: black;
 }
 
+
 header{
     width: 100%;
 }
 
-HOLAAAAA
-holaaaaa
+.header .main {
+    width: 90%;
+    margin: 0 auto;
+}
 
 .navbar .brand {
     display: flex;
@@ -29,15 +31,7 @@ holaaaaa
 
 }
 
-.navbar .brand .i {
-    font-size: 1.6em;
 
-}
-
-.navbar .brand h3{
-    font-size: 1.3em;
-    margin: 5px 5px;
-}
 .menu ul{
     display: flex;
     justify-content: flex-end;
@@ -51,12 +45,14 @@ holaaaaa
 
 }
 
+
 .menu ul li a{
     color: yellowgreen;
     text-decoration: none;
     font-size: 1.3em;
 
 }
+
 
 .navbar .toggle-menu {
     display: flex;
@@ -71,38 +67,9 @@ holaaaaa
     color:yellowgreen;
 }
 
-@media (max-width: 570px){
-    .navbar .toggle-menu i{
-        display: block;
-        margin: -60px 30px;
-
-    }
-    .navbar .menu ul{
-        flex-direction: center;
-        align-items:  center;
-        justify-content: flex-start;
-        width: 100%;
-        height: 100%;
-        z-index: 1;
-        
-        background-color: white;
-        position: fixed;
-        margin-top: 30px;
-        transform: translateX(-120%);
-        transition: 1s ease-in;
-    }
-    .navbar .menu .menu-on{
-        transform: translateX(-4%);
-    }
-    .navbar .menu ul li{
-        margin: 30px;
-        text-transform: uppercase;
-
-    }
-} 
-
 form{
     color: white;
 }
+
 
 
